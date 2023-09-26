@@ -1,4 +1,7 @@
 header {
+    background-color: antiquewhite;
+    height: 100px;
     justify-content: center;
+    align-items: center;
     display: flex;
 }
