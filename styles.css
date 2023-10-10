@@ -5,6 +5,9 @@ header {
     align-items: center;
     display: flex;
 }
+header h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 nav {
     background-color: rgb(240, 212, 177);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
