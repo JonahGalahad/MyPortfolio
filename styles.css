@@ -5,3 +5,48 @@ header {
     align-items: center;
     display: flex;
 }
+nav {
+    background-color: rgb(240, 212, 177);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 15px;
+    text-align: center;
+}
+nav a {
+    margin: 100px;
+}
+nav a:hover {
+    background-color: rgb(224, 206, 183);
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+main {
+    align-items: center;
+    display: flex;
+}
+#homeImage {
+    background-color: beige;
+    margin-left: 7%;
+    margin-right: 60px;
+    margin-top: 3%;
+    padding: 70px;
+    border-radius: 45%;
+}
+#texto {
+    margin-right: 7%;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+footer {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+#social-media {
+    margin: 10px;
+}
+.media {
+    padding: 5px;
+ }
