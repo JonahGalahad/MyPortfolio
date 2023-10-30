@@ -46,6 +46,7 @@ footer {
     display: flex;
     flex-direction: column;
     margin-top: 100px;
+    background-color: rgb(240, 212, 177);
 }
 #social-media {
     margin: 10px;
